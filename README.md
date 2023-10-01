@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps and Softeware Engineering
 - 🌱 I’m currently learning Advanced Software Engineering
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me shavindramms@gmail.com
+- 📫 You can reach me via shavindramms@gmail.com
 
 <!---
 shavindraSN/shavindraSN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
